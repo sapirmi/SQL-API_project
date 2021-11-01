@@ -1,5 +1,4 @@
 # SQL_project
-## -Project is not finished-
 
 ## About the DataSet
 The dataset was taken from kaggle (link to the dataset - https://www.kaggle.com/andrewmvd/udemy-courses).
