@@ -8,4 +8,5 @@ number of reviews, number of lectures, level, content dutation, published timest
 ## Questions
 Q1 - What are the top 5 courses in each subject?\
 Q2 - What are the 10 most popular courses?\
-Q3 - Which year had the most courses published? 
+Q3 - Which year had the most courses published?\
+Q4 - Which course has the highest price per lecture?
