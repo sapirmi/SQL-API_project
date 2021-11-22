@@ -3,7 +3,8 @@
 ## About the DataSet
 The dataset was taken from kaggle (link to the dataset - https://www.kaggle.com/andrewmvd/udemy-courses).
 Every row represent sa single course and its' details - ID, name, URL address, paid or free, price, number of subscribers,
-number of reviews, number of lectures, level, content dutation, published timestamp, and subject.
+number of reviews, number of lectures, level, content dutation, published timestamp, and subject.\
+For further research, I used REST API to pull more data about these courses from udemy, specifically rating score.\ 
 
 ## Questions
 Q1 - What are the top 5 courses in each subject?\
