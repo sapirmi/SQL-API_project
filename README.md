@@ -6,7 +6,10 @@ Every row represent sa single course and its' details - ID, name, URL address, p
 number of reviews, number of lectures, level, content dutation, published timestamp, and subject.\
 
 ## About the project
-For further research, I used REST API to pull more data about these courses from udemy, specifically rating score.\
+My goal in this project was to practice SQL queries.\
+After writing 6 queries, I have decided to use another table to make the queries harder and uniqe.\
+For the second table ("rating"), I used REST API to pull more data about the courses from the first table  from udemy, specifically rating score.\
+Later, I wrote queries for the rating table and queries that combine both of the tables.
 
 ## Questions
 Q1 - What are the top 5 courses in each subject?\
