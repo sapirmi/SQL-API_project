@@ -23,5 +23,5 @@ Q3 - Which year had the most courses published?\
 Q4 - Which course has the highest price per lecture?\
 Q5 - What is the average price per lecture out of all paid courses?\
 Q6 - Which course has the max price for each month?\
-Q7 - What are the top 10 courses with the highest rating avarage score?\
-Q8 - Build a table including courses' id, title, and avarage rating score.
+Q7 - What are the top 10 courses with the highest rating average score?\
+Q8 - Build a table including courses' id, title, and average rating score.
